@@ -1,7 +1,5 @@
 package school.mjc.stage0.loops.task5;
 
-import java.util.Random;
-
 public class Square {
     public void printSquareFrom8s(int sideLength){
         for (int x = 1; x <= sideLength; x++) {
